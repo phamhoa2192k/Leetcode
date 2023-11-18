@@ -4,5 +4,8 @@
   "[python]": {
     "editor.defaultFormatter": "ms-python.autopep8"
   },
-  "editor.wordWrap": "on"
+  "editor.wordWrap": "on",
+  "cSpell.words": [
+    "popleft"
+  ]
 }
